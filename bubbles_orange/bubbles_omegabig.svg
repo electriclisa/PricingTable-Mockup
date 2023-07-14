@@ -1,0 +1,9 @@
+<svg class="bubble" xmlns="http://www.w3.org/2000/svg" width="35" height="60" viewBox="0 0 56 58" fill="none">
+                <ellipse cx="27.7064" cy="28.6223" rx="27.298" ry="28.6223" fill="url(#paint0_radial_3_15)" fill-opacity="0.4"/>
+                <defs>
+                <radialGradient id="paint0_radial_3_15" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(27.7064 28.6223) rotate(90) scale(28.6223 27.298)">
+                <stop stop-color="#F1A843"/>
+                <stop offset="1" stop-color="#F3F4F2"/>
+                </radialGradient>
+                </defs>
+                </svg>
