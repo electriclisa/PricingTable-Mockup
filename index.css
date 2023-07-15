@@ -80,6 +80,8 @@ margin-left: 55px;
 
 #cards {
 display: flex;
+justify-content:center;
+align-items:center;
 gap: 25px;
 overflow: hidden;
 }
