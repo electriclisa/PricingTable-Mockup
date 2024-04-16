@@ -30,7 +30,9 @@ display: grid;
     display: grid;
     
 }
-
+#path {
+    position: absolute;
+}
 .plan-features3 {
 color: #530C81;
 font-size: 16px;
@@ -80,8 +82,8 @@ margin-left: 55px;
 
 #cards {
 display: flex;
-justify-content:center;
-align-items:center;
+justify-content: center;
+align-items: center;
 gap: 25px;
 overflow: hidden;
 }
@@ -108,7 +110,7 @@ overflow: hidden;
     position:relative;}
 
 .wave {
-    margin-top: 220px;}
+    margin-top: 221px;}
 
 .white-rounded {
     width: 261px;
@@ -243,7 +245,7 @@ overflow: hidden;
     height: 47px;
     border-radius: 8px;
     background: #881CCD;
-    box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.40) inset;
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.40) inset;
     margin: auto;
     position: absolute;
     margin-top: 180px;
